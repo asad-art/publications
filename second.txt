@@ -1,1 +1,2 @@
 Changes to the 2nd file!
+This is the second line for second file.
