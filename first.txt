@@ -1,2 +1,0 @@
-Changes to the 1st file!
-This is the second line for this file.
